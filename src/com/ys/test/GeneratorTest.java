@@ -34,6 +34,7 @@ public class GeneratorTest {
         try {
             GeneratorTest generator = new GeneratorTest();
             generator.testGenerator();
+            System.out.println("kdjf");
         } catch (Exception e) {
             e.printStackTrace();
         }
